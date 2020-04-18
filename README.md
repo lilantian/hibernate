@@ -1,12 +1,12 @@
 hibernate
 ===========================
 ###### 程序定位
-1. 熟悉idea开发工具
-2. idea中使用maven创建hibernate项目
-3. 学习hibernate的增删改查的简单操作
-4. 学习编写规范的的READ.md文件
-5. 完成IDEA配合GitHub管理本地代码，实现更新本地代码到GitHub
-6. 代码为个人学习使用  
+1. 熟悉使用idea开发工具
+2. 在idea中使用maven创建hibernate项目
+3. 学习hibernate的增删改查操作
+4. 学习编写规范的的README.md文件
+5. 完成IDEA配合GitHub管理本地代码，实现更新本地代码到GitHub上
+6. 代码供个人学习使用  
 
 ###### 环境依赖
 1. JDK 1.8  
