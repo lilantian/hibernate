@@ -21,7 +21,7 @@ hibernate
 4. 使用hibernate完成数据的删除操作
 
 ###### TABLE
-```mysql
+```sql
 CREATE TABLE `goods` (
   `sid` int(11) NOT NULL,
   `name` varchar(255) DEFAULT NULL,
